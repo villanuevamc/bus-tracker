@@ -1,3 +1,4 @@
+<img src="bus-tracker.png">
 # Real Time Bus Tracker
 This Real Time Bus Tracker exercise contains code for showing the bus stops between Harvard and MIT using the MBTA bus data. It uses an animated marker to highlight the bus routes on the displayed map.
 
